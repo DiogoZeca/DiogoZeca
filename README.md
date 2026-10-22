@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,cpp" alt="Python, PyTorch, TensorFlow, C, C++" /><img src="assets/cuda.svg" height="48" alt="CUDA" /><img src="https://skillicons.dev/icons?i=rust,java,matlab,docker,linux,grafana" alt="Rust, Java, MATLAB, Docker, Linux, Grafana" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,cpp" alt="Python, PyTorch, TensorFlow, C, C++" /><img src="assets/cuda.svg" height="48" alt="CUDA" /><img src="https://skillicons.dev/icons?i=rust,java,matlab,docker,kubernetes,linux,grafana" alt="Rust, Java, MATLAB, Docker, Kubernetes, Linux, Grafana" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I'm an AI/ML Engineer in **Telecommunications, Artificial Intelligence and Computer Science**.
 
-My background is in **networking**: network infrastructure, Wi-Fi and 5G. That's still where I work, but now I'm applying **AI/ML** on top of it. I use it to turn a user's intent into network and service configuration, and to turn telemetry into decisions that **optimise those services and make them more energy-efficient**, so they deliver the same quality with a smaller footprint.
+My background is in **networking**, from routing, MPLS and data-centre overlays to Wi-Fi 6/7, 5G and SDN. That's still where I work, but now I'm applying **AI/ML** on top of it. I use it to turn a user's intent into network and service configuration, and to turn telemetry into decisions that **optimise those services and make them more energy-efficient**, so they deliver the same quality with a smaller footprint.
 
 ### Current work
 
@@ -31,13 +31,31 @@ My background is in **networking**: network infrastructure, Wi-Fi and 5G. That's
 
 ### Toolbox
 
-- **Networking & Telecom:** network infrastructure, Wi-Fi (IEEE 802.11), 5G, V2X / ETSI ITS-G5, Wireshark, GNS3, MQTT
-- **ML & Data:** PyTorch, TensorFlow, XGBoost, pandas, NumPy, Jupyter, pytest
-- **Systems & HPC:** Python, C/C++, Rust, Java, C#, MATLAB, CUDA, OpenCL, OpenMP, MPI, VHDL
-- **Cybersecurity & SIEM:** Wazuh, Suricata, UEBA, network threat detection (data exfiltration, DNS tunnelling, C2 beaconing), GeoIP enrichment
-- **Observability:** Grafana, InfluxDB, Telegraf, Prometheus, MQTT telemetry pipelines
-- **DevOps & Automation:** Linux, Docker, Docker Compose, Git, GitHub Actions (CI/CD), Bash scripting
-- **Embedded:** ESP32, ESP-IDF, FreeRTOS
+- **Networking & Telecom:** routing & switching, BGP, MPLS, VXLAN/EVPN, 5G, Wi-Fi 6/7, SDN/NFV, P4, Wireshark, GNS3 (full breakdown below)
+- **ML & Data:** PyTorch, TensorFlow, XGBoost, pandas, NumPy, Jupyter, pytest, federated learning
+- **Systems & HPC:** Python, C/C++, Rust, Java, C#, MATLAB, CUDA, OpenCL, OpenMP, MPI, VHDL, MIPS Assembly
+- **Cybersecurity & SIEM:** Suricata (IDS/IPS), Wazuh (SIEM), UEBA, NetFlow analysis, threat detection (data exfiltration, DNS tunnelling, C2 beaconing)
+- **Observability:** Grafana, InfluxDB, Telegraf, Prometheus, SNMP, MQTT telemetry pipelines
+- **Cloud-Native & DevOps:** Linux (Ubuntu, Arch, Fedora), Docker, Docker Compose, Kubernetes, Kafka, microservices, REST/GraphQL, Git, GitHub Actions (CI/CD), Bash
+- **Embedded & IoT:** ESP32-C6 (RISC-V), ESP-IDF, FreeRTOS, I²C/SPI drivers, BLE, Zigbee, LoRaWAN, MQTT/TLS, low-power design
+
+<details>
+<summary><b>Networking in depth</b></summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| **Wireless & mobile** | Wi-Fi 6/7, 5G (SBA, network slicing, 5G-AKA, MEC, O-RAN), NB-IoT, LoRaWAN, BLE, Zigbee, V2X (ITS-G5, C-V2X), 6G |
+| **Routing & switching** | IPv4/IPv6, L2/L3 switching, STP, VLANs, intra- and inter-domain unicast and multicast routing, BGP/MP-BGP, route reflectors |
+| **Carrier & data-centre networks** | MPLS (LDP, RSVP-TE), L3VPN/VRF, VXLAN, BGP EVPN, QoS (IntServ/DiffServ), CDNs |
+| **Programmable networks** | SDN, OpenFlow, P4, NFV |
+| **Network management** | SNMP, NetFlow, TMN |
+| **Network security** | Zero Trust, 802.1X/EAP/RADIUS, WPA2, NGFW/DMZ, iptables/nftables, IPsec/IKE, WireGuard, PKI/X.509, Suricata, Wazuh |
+| **Distributed & autonomous networks** | MANET routing (AODV, OLSR, BATMAN), P2P overlays (DHT, BitTorrent, IPFS) |
+| **Core services** | TCP/UDP, DNS, DHCP, NAT, HTTP, sockets, VoIP |
+
+</details>
 
 ### **Beyond work:** outside my core research, I'm interested in hands-on infrastructure:
 
