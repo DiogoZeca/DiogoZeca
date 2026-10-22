@@ -57,7 +57,7 @@ My background is in **networking**, from routing, MPLS and data-centre overlays 
 
 </details>
 
-### **Beyond work:** outside my core research, I'm interested in hands-on infrastructure:
+### Beyond work: outside my core research, I'm interested in hands-on infrastructure:
 
 - **Homelabbing & self-hosting:** virtualisation, containers and lightweight Kubernetes on bare metal, as a sandbox to build, break and rebuild systems end-to-end
 - **IoT & home automation:** ESP32 sensor nodes, MQTT messaging and connected-home integrations
