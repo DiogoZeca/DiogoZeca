@@ -22,7 +22,7 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
 
 - **Now:** closing the loop between intent, telemetry and ML to optimise services across the edge–cloud continuum, delivering the same quality with less energy
 - **Background:** routing, MPLS, overlays, Wi-Fi 6/7, 5G and SDN
-- **Also into:** network security, GPU/HPC w/CUDA, and a homelab where I build, break and rebuild things
+- **Also into:** network security, GPU/HPC, and a homelab where I build, break and rebuild things
 
 <details>
 <summary><b>Toolbox</b></summary>
