@@ -1,7 +1,11 @@
-<h1 align="center">Diogo Silva</h1>
+<h1 align="center">Hi, I'm Diogo Silva 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer</b> · Intent-Based Networking · Compute Continuum · Telemetry-Driven AI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;Intent-Based+%26+Semantic+Networking;Telemetry-driven+AI+across+the+compute+continuum;MSc+in+Telecom%2C+AI+%26+Computer+Science" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,c,cpp,rust,java,matlab,docker,linux,grafana&perline=12" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -12,7 +16,7 @@
 
 ## About
 
-AI/ML Engineer and MSc student in **Telecommunications, Artificial Intelligence and Computer Science**.
+I'm an AI/ML Engineer and MSc student in **Telecommunications, Artificial Intelligence and Computer Science**.
 
 I work on **AI-driven service optimisation across the edge–cloud continuum**. In practice, that means turning a user's high-level intent into concrete deployment and networking decisions, then using live telemetry and ML models to check those decisions against the intent and keep adjusting them.
 
@@ -25,6 +29,13 @@ I work on **AI-driven service optimisation across the edge–cloud continuum**. 
 - **Inference:** using ML models to forecast demand and service behaviour, and to decide where to place, scale and migrate workloads
 - **Assurance:** continuously checking that the running system still satisfies the intent, balancing latency, resource utilisation and energy consumption
 
+### Toolbox
+
+- **ML & Data:** PyTorch, TensorFlow, scikit-learn, XGBoost, pandas, NumPy, Jupyter, pytest
+- **Systems & HPC:** Python, C/C++, Rust, Java, C#, MATLAB, CUDA, OpenCL, OpenMP, MPI, VHDL
+- **Networking & Embedded:** Wireshark, GNS3, MQTT, V2X / ETSI ITS-G5, ESP32, FreeRTOS
+- **Infrastructure & Observability:** Docker, Linux, Bash, Git, Grafana, InfluxDB
+
 ### Areas of interest
 
 Intent-Based & Semantic Networking · AIOps · Edge–Cloud Orchestration · Time-Series Forecasting · Anomaly Detection · Energy-Efficient Computing
@@ -35,6 +46,8 @@ Intent-Based & Semantic Networking · AIOps · Edge–Cloud Orchestration · Tim
 - **DevOps & automation:** CI/CD pipelines, infrastructure as code and GitOps workflows
 - **Observability:** metrics, logs and dashboards with Prometheus, Grafana and InfluxDB
 - **IoT & home automation:** ESP32 sensor nodes, MQTT messaging and connected-home integrations
+
+Always happy to talk about intent-based networking, AI for infrastructure operations or edge–cloud orchestration. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diogo-silva2611/).
 
 ---
 
@@ -47,55 +60,3 @@ Intent-Based & Semantic Networking · AIOps · Edge–Cloud Orchestration · Tim
 | [**Autonomous Emergency Vehicle**](https://github.com/DiogoZeca/Autonomous_Emergency_Vehicle) | V2X testbed for emergency-vehicle traffic preemption. Runs real ETSI ITS-G5 stacks (CAM, DENM, SPATEM), with road traffic simulated in SUMO, cooperative lane clearing and RSU-controlled signal preemption. | Python · SUMO · Vanetza · MQTT · Flask |
 | [**UEBA Module for SIEM**](https://github.com/DiogoZeca/UEBAModule_SIEM) | Behavioural analytics engine that builds traffic baselines from network flows and flags anomalous activity and compromised devices. | Python · Network Flow Analysis |
 | [**DetiCoins**](https://github.com/DiogoZeca/DetiCoins) | SHA-1 search engine implemented across scalar, AVX/AVX2/AVX-512, OpenMP, CUDA, OpenCL, MPI and WebAssembly backends, benchmarked against each other for throughput on heterogeneous hardware. | C · CUDA · OpenCL · OpenMP · MPI |
-
----
-
-## Technical skills
-
-**AI / ML & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" alt="AI/ML" />
-</p>
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-**Languages & High-Performance Computing**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,cs,matlab" alt="Languages" />
-</p>
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenCL](https://img.shields.io/badge/OpenCL-ED1C24?style=flat-square)
-![OpenMP](https://img.shields.io/badge/OpenMP-1F4E79?style=flat-square)
-![MPI](https://img.shields.io/badge/MPI-555555?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL-6E4C9E?style=flat-square)
-
-**Networking, Telecom & Embedded**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-2E7D32?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![V2X](https://img.shields.io/badge/V2X%20%2F%20ITS--G5-37474F?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3C9A3C?style=flat-square)
-
-**Infrastructure & Observability**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,grafana" alt="Infrastructure" />
-</p>
-
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-
----
-
-## Contact
-
-Open to conversations on intent-based networking, AI for infrastructure operations and edge–cloud orchestration.
-Reach me on [LinkedIn](https://www.linkedin.com/in/diogo-silva2611/).
