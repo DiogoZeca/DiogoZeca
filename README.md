@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Diogo Silva 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;Intent-Based+%26+Semantic+Networking;Telemetry-driven+AI+across+the+compute+continuum;MSc+in+Telecom%2C+AI+%26+Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;Network+Infrastructure+%C2%B7+Wi-Fi+%C2%B7+5G;AI+for+Intent%2C+Telemetry+%26+Fault+Detection;MSc+in+Telecom%2C+AI+%26+Computer+Science" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,c,cpp,rust,java,matlab,docker,linux,grafana&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,cpp" alt="Python, PyTorch, TensorFlow, C, C++" /><img src="assets/cuda.svg" height="48" alt="CUDA" /><img src="https://skillicons.dev/icons?i=rust,java,matlab,docker,linux,grafana" alt="Rust, Java, MATLAB, Docker, Linux, Grafana" />
 </p>
 
 <p align="center">
@@ -18,27 +18,28 @@
 
 I'm an AI/ML Engineer and MSc student in **Telecommunications, Artificial Intelligence and Computer Science**.
 
-I work on **AI-driven service optimisation across the edge–cloud continuum**. In practice, that means turning a user's high-level intent into concrete deployment and networking decisions, then using live telemetry and ML models to check those decisions against the intent and keep adjusting them.
+My background is in **networking**: network infrastructure, Wi-Fi and 5G. That's still where I work, but now I'm applying **AI/ML** on top of it. I use it to turn a user's intent into network and service configuration, to make sense of telemetry, and to detect faults before they reach the user.
 
 ### Current work
 
-**Closed-loop, intent-driven orchestration across the compute continuum**
+**AI/ML for intent-driven network and service management across the edge–cloud continuum**
 
-- **Intent:** translating user intents into service-level objectives and deployment policies, using intent-based and semantic networking
-- **Telemetry:** collecting compute, network and application metrics from edge to cloud
-- **Inference:** using ML models to forecast demand and service behaviour, and to decide where to place, scale and migrate workloads
-- **Assurance:** continuously checking that the running system still satisfies the intent, balancing latency, resource utilisation and energy consumption
+- **Intent:** translating user intents into service-level objectives and network and deployment policies, using intent-based and semantic networking
+- **Telemetry:** collecting network, compute and application telemetry from edge to cloud
+- **Detection:** training ML models to detect faults and anomalies and to forecast service behaviour before degradation reaches the user
+- **Closed loop:** placing, scaling and migrating services, then continuously checking that the system still meets the intent on latency, resource use and energy
 
 ### Toolbox
 
-- **ML & Data:** PyTorch, TensorFlow, scikit-learn, XGBoost, pandas, NumPy, Jupyter, pytest
+- **Networking & Telecom:** network infrastructure, Wi-Fi (IEEE 802.11), 5G, V2X / ETSI ITS-G5, Wireshark, GNS3, MQTT
+- **ML & Data:** PyTorch, TensorFlow, XGBoost, pandas, NumPy, Jupyter, pytest
 - **Systems & HPC:** Python, C/C++, Rust, Java, C#, MATLAB, CUDA, OpenCL, OpenMP, MPI, VHDL
-- **Networking & Embedded:** Wireshark, GNS3, MQTT, V2X / ETSI ITS-G5, ESP32, FreeRTOS
+- **Embedded:** ESP32, FreeRTOS
 - **Infrastructure & Observability:** Docker, Linux, Bash, Git, Grafana, InfluxDB
 
 ### Areas of interest
 
-Intent-Based & Semantic Networking · AIOps · Edge–Cloud Orchestration · Time-Series Forecasting · Anomaly Detection · Energy-Efficient Computing
+Intent-Based & Semantic Networking · 5G & Wireless Networks · AI for Network Operations · Network Telemetry · Fault & Anomaly Detection · Edge–Cloud Orchestration · Energy-Efficient Computing
 
 **Beyond work:** outside my core research, I'm interested in hands-on infrastructure:
 
@@ -47,7 +48,7 @@ Intent-Based & Semantic Networking · AIOps · Edge–Cloud Orchestration · Tim
 - **Observability:** metrics, logs and dashboards with Prometheus, Grafana and InfluxDB
 - **IoT & home automation:** ESP32 sensor nodes, MQTT messaging and connected-home integrations
 
-Always happy to talk about intent-based networking, AI for infrastructure operations or edge–cloud orchestration. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diogo-silva2611/).
+Always happy to talk about networking, intent-based management or AI for network operations. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/diogo-silva2611/).
 
 ---
 

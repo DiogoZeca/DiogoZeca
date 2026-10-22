@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="256" viewBox="0 0 344 256" fill="none">
+  <rect x="44" width="256" height="256" rx="60" fill="#242938"/>
+  <rect x="88" y="62" width="168" height="10" rx="5" fill="#76B900"/>
+  <text x="172" y="160" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="74" font-weight="800" fill="#76B900" textLength="168" lengthAdjust="spacingAndGlyphs">CUDA</text>
+  <rect x="88" y="186" width="168" height="10" rx="5" fill="#76B900"/>
+</svg>
