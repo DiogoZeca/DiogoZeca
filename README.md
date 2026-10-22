@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an AI/ML Engineer and MSc student in **Telecommunications, Artificial Intelligence and Computer Science**.
+I'm an AI/ML Engineer in **Telecommunications, Artificial Intelligence and Computer Science**.
 
 My background is in **networking**: network infrastructure, Wi-Fi and 5G. That's still where I work, but now I'm applying **AI/ML** on top of it. I use it to turn a user's intent into network and service configuration, and to turn telemetry into decisions that **optimise those services and make them more energy-efficient**, so they deliver the same quality with a smaller footprint.
 
