@@ -39,11 +39,7 @@ My background is in **networking**: network infrastructure, Wi-Fi and 5G. That's
 - **DevOps & Automation:** Linux, Docker, Docker Compose, Git, GitHub Actions (CI/CD), Bash scripting
 - **Embedded:** ESP32, ESP-IDF, FreeRTOS
 
-### Areas of interest
-
-Intent-Based & Semantic Networking · 5G & Wireless Networks · AI for Network Operations · Network Telemetry · Green & Energy-Efficient Networking · Edge–Cloud Orchestration · Network Security
-
-**Beyond work:** outside my core research, I'm interested in hands-on infrastructure:
+### **Beyond work:** outside my core research, I'm interested in hands-on infrastructure:
 
 - **Homelabbing & self-hosting:** virtualisation, containers and lightweight Kubernetes on bare metal, as a sandbox to build, break and rebuild systems end-to-end
 - **IoT & home automation:** ESP32 sensor nodes, MQTT messaging and connected-home integrations
