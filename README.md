@@ -55,7 +55,7 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
 
 ---
 
-## Selected projects
+## Stuff I've built
 
 | Project | What it does | Stack |
 |---|---|---|
