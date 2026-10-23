@@ -64,3 +64,19 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
 | [**Autonomous Emergency Vehicle**](https://github.com/DiogoZeca/Autonomous_Emergency_Vehicle) | V2X testbed that clears traffic and pre-empts signals for emergency vehicles | ITS-G5 · SUMO · MQTT |
 | [**UEBA Module for SIEM**](https://github.com/DiogoZeca/UEBAModule_SIEM) | Detects compromised hosts by spotting exfiltration, DNS tunnelling and C2 beaconing in network flows | Python · Wazuh |
 | [**DetiCoins**](https://github.com/DiogoZeca/DetiCoins) | SHA-1 miner benchmarked across SIMD, CUDA, OpenCL and MPI backends | C · CUDA · MPI |
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake.svg" />
+  </picture>
+</p>
