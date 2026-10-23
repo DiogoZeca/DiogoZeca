@@ -109,11 +109,3 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub metrics" />
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DiogoZeca/DiogoZeca/output/github-snake.svg" />
-  </picture>
-</p>
