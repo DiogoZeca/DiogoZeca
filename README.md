@@ -57,13 +57,44 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
 
 ## Stuff I've built
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**CPU Spike Predictor**](https://github.com/DiogoZeca/Agentic_AI) | Forecasts datacenter CPU spikes 15–60 min ahead, so schedulers can act before they hit | Python · XGBoost |
-| [**Smart Power Fault Detection**](https://github.com/DiogoZeca/Sensor_Project) | Low-power ESP32 node that detects brownouts and power loss in under a second | C · FreeRTOS · MQTT · Grafana |
-| [**Autonomous Emergency Vehicle**](https://github.com/DiogoZeca/Autonomous_Emergency_Vehicle) | V2X testbed that clears traffic and pre-empts signals for emergency vehicles | ITS-G5 · SUMO · MQTT |
-| [**UEBA Module for SIEM**](https://github.com/DiogoZeca/UEBAModule_SIEM) | Detects compromised hosts by spotting exfiltration, DNS tunnelling and C2 beaconing in network flows | Python · Wazuh |
-| [**DetiCoins**](https://github.com/DiogoZeca/DetiCoins) | SHA-1 miner benchmarked across SIMD, CUDA, OpenCL and MPI backends | C · CUDA · MPI |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/Agentic_AI">CPU Spike Predictor</a></h3>
+      Forecasts datacenter CPU spikes 15–60 min ahead, so schedulers can act before they hit.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/Sensor_Project">Smart Power Fault Detection</a></h3>
+      Low-power ESP32 node that catches brownouts and power loss in under a second.
+      <br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/FreeRTOS-3C9A3C?style=flat-square" alt="FreeRTOS" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/UEBAModule_SIEM">UEBA Module for SIEM</a></h3>
+      Spots compromised hosts through exfiltration, DNS tunnelling and C2 beaconing in network flows.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Wazuh-3595F9?style=flat-square" alt="Wazuh" /> <img src="https://img.shields.io/badge/NetFlow-37474F?style=flat-square" alt="NetFlow" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/Autonomous_Emergency_Vehicle">Autonomous Emergency Vehicle</a></h3>
+      V2X testbed that clears traffic and pre-empts signals for emergency vehicles.
+      <br><br>
+      <img src="https://img.shields.io/badge/ITS--G5-37474F?style=flat-square" alt="ITS-G5" /> <img src="https://img.shields.io/badge/SUMO-2E7D32?style=flat-square" alt="SUMO" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/DetiCoins">DetiCoins</a></h3>
+      SHA-1 miner benchmarked across SIMD, CUDA, OpenCL and MPI backends.
+      <br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /> <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=flat-square" alt="OpenCL" /> <img src="https://img.shields.io/badge/MPI-555555?style=flat-square" alt="MPI" />
+    </td>
+  </tr>
+</table>
 
 ---
 
