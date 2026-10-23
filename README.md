@@ -87,11 +87,17 @@ Networking engineer by training, AI/ML engineer by choice. I build things where 
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/DiogoZeca/DetiCoins">DetiCoins</a></h3>
       SHA-1 miner benchmarked across SIMD, CUDA, OpenCL and MPI backends.
       <br><br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /> <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=flat-square" alt="OpenCL" /> <img src="https://img.shields.io/badge/MPI-555555?style=flat-square" alt="MPI" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DiogoZeca/Elemental_Clash">Elemental Clash</a></h3>
+      3D card battle in the browser against an AI opponent. <a href="https://diogozeca.github.io/Elemental_Clash/">Play it live</a>.
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
     </td>
   </tr>
 </table>
